@@ -5,4 +5,5 @@ fastapi.responses
 pydantic
 io
 ultralytics
-uvicorn
+pillow
+opencv-python
