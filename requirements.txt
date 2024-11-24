@@ -1,0 +1,7 @@
+typing
+PIL
+fastapi
+fastapi.responses
+pydantic
+io
+ultralytics
