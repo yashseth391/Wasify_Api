@@ -5,3 +5,4 @@ fastapi.responses
 pydantic
 io
 ultralytics
+uvicorn
