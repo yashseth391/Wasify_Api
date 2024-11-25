@@ -3,7 +3,7 @@
 fastapi
 
 pydantic
-
+uvicorn 
 ultralytics
 pillow
 opencv-python

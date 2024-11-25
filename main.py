@@ -44,3 +44,9 @@ async def classify_image(file: UploadFile=File(...)):
 @app.get("/ans/")
 def ans():
     return FileResponse(r"D:\College Minor Project\FastApi learn\ans.jpg")
+
+
+
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=8000)
