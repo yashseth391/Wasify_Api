@@ -1,0 +1,9 @@
+
+
+fastapi
+
+pydantic
+
+ultralytics
+pillow
+opencv-python
